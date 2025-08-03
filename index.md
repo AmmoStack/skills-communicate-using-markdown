@@ -11,3 +11,7 @@ Initialized empty Git repository in /User/skills/Projects/recipe-repository/.git
 ```javascript
 var myVar = "Hello World!";
 ```
+
+- [x] List syntas is required
+- [x] This item is complete
+- [ ] This item is not compltet
