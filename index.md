@@ -15,3 +15,7 @@ var myVar = "Hello World!";
 - [x] List syntas is required
 - [x] This item is complete
 - [ ] This item is not compltet
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world 
